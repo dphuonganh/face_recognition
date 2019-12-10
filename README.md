@@ -1,5 +1,7 @@
 # Face Recognition
 
+**Phuong Anh link:** (https://www.pyimagesearch.com/static/cv_dl_resource_guide.pdf)
+
 _You can also read a translated version of this file [in Chinese 简体中文版](https://github.com/ageitgey/face_recognition/blob/master/README_Simplified_Chinese.md) or [in Korean 한국어](https://github.com/ageitgey/face_recognition/blob/master/README_Korean.md)._
 
 Recognize and manipulate faces from Python or from the command line with
